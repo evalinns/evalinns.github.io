@@ -5,6 +5,7 @@ h1 {
 	color: #C9B1B4;
 	font-size: 62px;
 	background-color: #FFFFFF;
+	text-align: right;
 }
 
 body
@@ -16,10 +17,13 @@ body
 	color: #C9B1B4;
 	
 }
-title
-{
-	font-family: 'Helvetica Neue';
-	background-color: #FFFFFF;
-	font-size: 40px;
-	font-weight: 400;
+a{
+	text-decoration: none;
 	color: #C9B1B4;
+
+}
+
+a:hover{
+color: #000000;	
+
+}
