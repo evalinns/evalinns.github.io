@@ -3,7 +3,7 @@ h1 {
 	font-family: 'Helvetica Neue';
 	font-weight: 100;
 	color: #C9B1B4;
-	font-size: 100px;
+	font-size: 60px;
 	background-color: #BEDDC3;
 	text-align: center;
 }
@@ -12,9 +12,9 @@ p{
 font-family: 'Helvetica Neue';
 	font-weight: 100;
 	color: #C9B1B4;
-	font-size: 18px;
+	font-size: 60px;
 	background-color: #BEDDC3;
-	text-align: left;
+	text-align: center;
 
 	}
 
@@ -22,7 +22,7 @@ body
 {
 	font-family: 'Helvetica Neue';
 	background-color: #BEDDC3;
-	font-size: 90px;
+	font-size: 80px;
 	font-weight: 100;
 	color: #C9B1B4;
 	text-align: center;
