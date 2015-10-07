@@ -13,7 +13,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {
       
       
-      Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 6000, function(sym, e) {
+      Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 14367, function(sym, e) {
          // insert code here
          // Play the timeline at a label or specific time. For example:
          // sym.play(500); or sym.play("myLabel");
