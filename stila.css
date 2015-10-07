@@ -8,11 +8,11 @@ h1 {
 	text-align: center;
 }
 
-.h1 p{
+p{
 font-family: 'Helvetica Neue';
-	font-weight: 250;
+	font-weight: 150;
 	color: #C9B1B4;
-	font-size: 20px;
+	font-size: 40px;
 	background-color: #BEDDC3;
 	text-align: center;
 
@@ -36,5 +36,8 @@ a{
 
 a:hover{
 color: #333333;	
+
+
+
 
 }
