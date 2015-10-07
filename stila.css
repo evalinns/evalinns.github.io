@@ -1,8 +1,8 @@
 
 h1 {
 	font-family: 'Helvetica Neue';
-	font-weight: 200;
-	color: #333;
+	font-weight: 400;
+	color: #C9B1B4;
 	font-size: 62px;
 	background-color: #FFFFFF;
 }
@@ -10,9 +10,16 @@ h1 {
 body
 {
 	font-family: 'Helvetica Neue';
-	background-color: #000000;
-	font-size: 62px;
-	font-weight: 200;
-	color: #333;
+	background-color: #FFFFFF;
+	font-size: 40px;
+	font-weight: 400;
+	color: #C9B1B4;
 	
 }
+title
+{
+	font-family: 'Helvetica Neue';
+	background-color: #FFFFFF;
+	font-size: 40px;
+	font-weight: 400;
+	color: #C9B1B4;
