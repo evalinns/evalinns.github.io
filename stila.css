@@ -4,10 +4,12 @@ h1 {
 	font-weight: 200;
 	color: #333;
 	font-size: 62px;
-	background-color: #C9B1B;
+	background-color: yellow;
 }
 
 body
 {
-	background-color: #C9B1B;
+	background-color: yellow;
+	background-image: url('bild.jpg');
+	
 }
