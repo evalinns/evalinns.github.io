@@ -1,19 +1,29 @@
 
 h1 {
 	font-family: 'Helvetica Neue';
-	font-weight: 400;
+	font-weight: 800;
 	color: #C9B1B4;
-	font-size: 62px;
+	font-size: 100px;
 	background-color: #FFFFFF;
 	text-align: center;
 }
+
+.h1 p{
+font-family: 'Helvetica Neue';
+	font-weight: 500;
+	color: #C9B1B4;
+	font-size: 80px;
+	background-color: #FFFFFF;
+	text-align: center;
+
+	}
 
 body
 {
 	font-family: 'Helvetica Neue';
 	background-color: #FFFFFF;
-	font-size: 40px;
-	font-weight: 400;
+	font-size: 60px;
+	font-weight: 800;
 	color: #C9B1B4;
 	text-align: center;
 	
@@ -25,6 +35,6 @@ a{
 }
 
 a:hover{
-color: #000000;	
+color: #333333;	
 
 }
