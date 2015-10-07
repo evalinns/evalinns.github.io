@@ -1,20 +1,20 @@
 
 h1 {
 	font-family: 'Helvetica Neue';
-	font-weight: 300;
+	font-weight: 100;
 	color: #C9B1B4;
-	font-size: 40px;
+	font-size: 100px;
 	background-color: #BEDDC3;
 	text-align: center;
 }
 
 p{
 font-family: 'Helvetica Neue';
-	font-weight: 150;
+	font-weight: 100;
 	color: #C9B1B4;
-	font-size: 40px;
+	font-size: 18px;
 	background-color: #BEDDC3;
-	text-align: center;
+	text-align: left;
 
 	}
 
@@ -22,8 +22,8 @@ body
 {
 	font-family: 'Helvetica Neue';
 	background-color: #BEDDC3;
-	font-size: 100px;
-	font-weight: 800;
+	font-size: 90px;
+	font-weight: 100;
 	color: #C9B1B4;
 	text-align: center;
 	
@@ -39,7 +39,7 @@ color: #333333;
 
 }
 #section{
-width: 1000px;
+width: 10000px;
 float: center;
 
 
