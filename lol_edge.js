@@ -30,7 +30,8 @@
                         {
                             id: 'Pasted',
                             type: 'image',
-                            rect: ['0px', '-7px', '1286px', '1123px', 'auto', 'auto'],
+                            rect: ['-5px', '-7px', '1286px', '1112px', 'auto', 'auto'],
+                            clip: 'rect(0px 1286px 1054.0546875px 0px)',
                             fill: ["rgba(0,0,0,0)",im+"Pasted.svg",'0px','0px']
                         },
                         {

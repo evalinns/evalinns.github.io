@@ -20,7 +20,7 @@
    }}\
 }",
 	"pref__general__FilterNonAnimatedElements":"false",
-	"viewStartMs":"7338.8116399418",
+	"viewStartMs":"7315.4148619413",
 	"pref__general__AutoKeyframePropertiesArmed":"false",
 	"symbol_stage":{
 		"element_${Text}":{
@@ -120,7 +120,7 @@
 	"pixelsPerMs":"0.073122378238902",
 	"usedBOM":"false",
 	"nextElementColorIndex":"5",
-	"stage-Default Timeline_playhead_ms":"14250",
+	"stage-Default Timeline_playhead_ms":"14367",
 	"pref__general__GenerateSmoothTransitions":"true",
 	"stage-Default Timeline_mark_ms":"-1",
 	"StageZoomFactor":"20"}
