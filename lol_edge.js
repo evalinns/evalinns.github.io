@@ -30,13 +30,13 @@
                         {
                             id: 'Pasted',
                             type: 'image',
-                            rect: ['14px', '-10px', '1286px', '1123px', 'auto', 'auto'],
+                            rect: ['0px', '-7px', '1286px', '1123px', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"Pasted.svg",'0px','0px']
                         },
                         {
                             id: 'EllipseCopy9',
                             type: 'ellipse',
-                            rect: ['909px', '287px', '66px', '81px', 'auto', 'auto'],
+                            rect: ['909px', '287px', '66px', '67px', 'auto', 'auto'],
                             borderRadius: ["50%", "50%", "50%", "50%"],
                             opacity: '0',
                             fill: ["rgba(192,192,192,1)"],
@@ -45,7 +45,7 @@
                         {
                             id: 'EllipseCopy10',
                             type: 'ellipse',
-                            rect: ['1054px', '629px', '66px', '72px', 'auto', 'auto'],
+                            rect: ['1054px', '638px', '66px', '63px', 'auto', 'auto'],
                             borderRadius: ["50%", "50%", "50%", "50%"],
                             opacity: '0',
                             fill: ["rgba(192,192,192,1)"],
@@ -54,7 +54,7 @@
                         {
                             id: 'EllipseCopy8',
                             type: 'ellipse',
-                            rect: ['120px', '321px', '66px', '81px', 'auto', 'auto'],
+                            rect: ['120px', '328px', '66px', '74px', 'auto', 'auto'],
                             borderRadius: ["50%", "50%", "50%", "50%"],
                             opacity: '0',
                             fill: ["rgba(192,192,192,1)"],
@@ -63,7 +63,7 @@
                         {
                             id: 'EllipseCopy7',
                             type: 'ellipse',
-                            rect: ['597px', '447px', '66px', '81px', 'auto', 'auto'],
+                            rect: ['597px', '461px', '66px', '67px', 'auto', 'auto'],
                             borderRadius: ["50%", "50%", "50%", "50%"],
                             opacity: '0',
                             fill: ["rgba(192,192,192,1)"],
@@ -81,7 +81,7 @@
                         {
                             id: 'EllipseCopy5',
                             type: 'ellipse',
-                            rect: ['439px', '624px', '71px', '81px', 'auto', 'auto'],
+                            rect: ['439px', '631px', '71px', '74px', 'auto', 'auto'],
                             borderRadius: ["50%", "50%", "50%", "50%"],
                             opacity: '0',
                             fill: ["rgba(192,192,192,1)"],
@@ -90,7 +90,7 @@
                         {
                             id: 'EllipseCopy',
                             type: 'ellipse',
-                            rect: ['268px', '555px', '66px', '81px', 'auto', 'auto'],
+                            rect: ['268px', '569px', '66px', '67px', 'auto', 'auto'],
                             borderRadius: ["50%", "50%", "50%", "50%"],
                             opacity: '0',
                             fill: ["rgba(192,192,192,1)"],
@@ -100,99 +100,19 @@
                     style: {
                         '${Stage}': {
                             isStage: true,
-                            rect: [undefined, undefined, '1300px', '1330px'],
+                            rect: ['null', 'null', '1300px', '1330px', 'auto', 'auto'],
                             overflow: 'hidden',
                             fill: ["rgba(190,221,195,1.00)"]
                         }
                     }
                 },
                 timeline: {
-                    duration: 14366.608465357,
+                    duration: 14367,
                     autoPlay: true,
                     labels: {
                         "loop": 0
                     },
                     data: [
-                        [
-                            "eid253",
-                            "top",
-                            7500,
-                            0,
-                            "linear",
-                            "${EllipseCopy5}",
-                            '624px',
-                            '624px'
-                        ],
-                        [
-                            "eid255",
-                            "top",
-                            7500,
-                            0,
-                            "linear",
-                            "${EllipseCopy7}",
-                            '447px',
-                            '447px'
-                        ],
-                        [
-                            "eid250",
-                            "height",
-                            7500,
-                            0,
-                            "linear",
-                            "${EllipseCopy5}",
-                            '81px',
-                            '81px'
-                        ],
-                        [
-                            "eid48",
-                            "opacity",
-                            4385,
-                            1865,
-                            "linear",
-                            "${EllipseCopy5}",
-                            '0.000000',
-                            '1'
-                        ],
-                        [
-                            "eid252",
-                            "left",
-                            7500,
-                            0,
-                            "linear",
-                            "${EllipseCopy5}",
-                            '439px',
-                            '439px'
-                        ],
-                        [
-                            "eid43",
-                            "opacity",
-                            0,
-                            2250,
-                            "linear",
-                            "${EllipseCopy8}",
-                            '0.000000',
-                            '1'
-                        ],
-                        [
-                            "eid258",
-                            "height",
-                            10235,
-                            0,
-                            "linear",
-                            "${EllipseCopy6}",
-                            '67px',
-                            '67px'
-                        ],
-                        [
-                            "eid64",
-                            "opacity",
-                            8250,
-                            1881,
-                            "linear",
-                            "${EllipseCopy6}",
-                            '0',
-                            '1'
-                        ],
                         [
                             "eid260",
                             "left",
@@ -214,24 +134,164 @@
                             '488px'
                         ],
                         [
-                            "eid263",
-                            "top",
-                            14102,
+                            "eid282",
+                            "height",
+                            13886,
                             0,
                             "linear",
                             "${EllipseCopy10}",
-                            '629px',
-                            '629px'
+                            '63px',
+                            '63px'
                         ],
                         [
-                            "eid246",
-                            "top",
-                            7000,
+                            "eid280",
+                            "height",
+                            13886,
                             0,
                             "linear",
+                            "${EllipseCopy9}",
+                            '67px',
+                            '67px'
+                        ],
+                        [
+                            "eid275",
+                            "height",
+                            7250,
+                            0,
+                            "linear",
+                            "${EllipseCopy7}",
+                            '67px',
+                            '67px'
+                        ],
+                        [
+                            "eid272",
+                            "top",
+                            4750,
+                            2500,
+                            "linear",
+                            "${EllipseCopy5}",
+                            '631px',
+                            '638px'
+                        ],
+                        [
+                            "eid274",
+                            "top",
+                            7250,
+                            250,
+                            "linear",
+                            "${EllipseCopy5}",
+                            '638px',
+                            '624px'
+                        ],
+                        [
+                            "eid279",
+                            "top",
+                            7500,
+                            1221,
+                            "linear",
+                            "${EllipseCopy5}",
+                            '624px',
+                            '638px'
+                        ],
+                        [
+                            "eid276",
+                            "top",
+                            7250,
+                            250,
+                            "linear",
+                            "${EllipseCopy7}",
+                            '461px',
+                            '447px'
+                        ],
+                        [
+                            "eid270",
+                            "height",
+                            3331,
+                            0,
+                            "linear",
+                            "${EllipseCopy}",
+                            '67px',
+                            '67px'
+                        ],
+                        [
+                            "eid268",
+                            "height",
+                            2500,
+                            831,
+                            "linear",
                             "${EllipseCopy8}",
-                            '321px',
-                            '321px'
+                            '74px',
+                            '67px'
+                        ],
+                        [
+                            "eid267",
+                            "top",
+                            3331,
+                            4169,
+                            "linear",
+                            "${EllipseCopy}",
+                            '569px',
+                            '555px'
+                        ],
+                        [
+                            "eid271",
+                            "height",
+                            4750,
+                            2500,
+                            "linear",
+                            "${EllipseCopy5}",
+                            '74px',
+                            '67px'
+                        ],
+                        [
+                            "eid273",
+                            "height",
+                            7250,
+                            250,
+                            "linear",
+                            "${EllipseCopy5}",
+                            '67px',
+                            '81px'
+                        ],
+                        [
+                            "eid278",
+                            "height",
+                            7500,
+                            1221,
+                            "linear",
+                            "${EllipseCopy5}",
+                            '81px',
+                            '67px'
+                        ],
+                        [
+                            "eid48",
+                            "opacity",
+                            4385,
+                            1865,
+                            "linear",
+                            "${EllipseCopy5}",
+                            '0.000000',
+                            '1'
+                        ],
+                        [
+                            "eid58",
+                            "opacity",
+                            12117,
+                            2250,
+                            "linear",
+                            "${EllipseCopy10}",
+                            '0.000000',
+                            '1'
+                        ],
+                        [
+                            "eid252",
+                            "left",
+                            7500,
+                            0,
+                            "linear",
+                            "${EllipseCopy5}",
+                            '439px',
+                            '439px'
                         ],
                         [
                             "eid46",
@@ -244,24 +304,14 @@
                             '0.99340277777778'
                         ],
                         [
-                            "eid249",
-                            "top",
+                            "eid248",
+                            "left",
                             7500,
                             0,
                             "linear",
                             "${EllipseCopy}",
-                            '555px',
-                            '555px'
-                        ],
-                        [
-                            "eid61",
-                            "opacity",
-                            6250,
-                            2000,
-                            "linear",
-                            "${EllipseCopy7}",
-                            '0.000000',
-                            '1'
+                            '268px',
+                            '268px'
                         ],
                         [
                             "eid261",
@@ -304,6 +354,16 @@
                             '120px'
                         ],
                         [
+                            "eid283",
+                            "top",
+                            13886,
+                            216,
+                            "linear",
+                            "${EllipseCopy10}",
+                            '638px',
+                            '629px'
+                        ],
+                        [
                             "eid262",
                             "left",
                             14102,
@@ -314,14 +374,14 @@
                             '1054px'
                         ],
                         [
-                            "eid257",
+                            "eid281",
                             "top",
                             10235,
-                            0,
+                            3651,
                             "linear",
                             "${EllipseCopy9}",
                             '287px',
-                            '287px'
+                            '301px'
                         ],
                         [
                             "eid254",
@@ -344,14 +404,34 @@
                             '1'
                         ],
                         [
-                            "eid248",
-                            "left",
-                            7500,
+                            "eid61",
+                            "opacity",
+                            6250,
+                            2000,
+                            "linear",
+                            "${EllipseCopy7}",
+                            '0.000000',
+                            '1'
+                        ],
+                        [
+                            "eid258",
+                            "height",
+                            10235,
                             0,
                             "linear",
-                            "${EllipseCopy}",
-                            '268px',
-                            '268px'
+                            "${EllipseCopy6}",
+                            '67px',
+                            '67px'
+                        ],
+                        [
+                            "eid43",
+                            "opacity",
+                            0,
+                            2250,
+                            "linear",
+                            "${EllipseCopy8}",
+                            '0.000000',
+                            '1'
                         ],
                         [
                             "eid256",
@@ -364,14 +444,34 @@
                             '909px'
                         ],
                         [
-                            "eid58",
+                            "eid64",
                             "opacity",
-                            12117,
-                            2250,
+                            8250,
+                            1881,
                             "linear",
-                            "${EllipseCopy10}",
-                            '0.000000',
+                            "${EllipseCopy6}",
+                            '0',
                             '1'
+                        ],
+                        [
+                            "eid265",
+                            "top",
+                            2500,
+                            831,
+                            "linear",
+                            "${EllipseCopy8}",
+                            '328px',
+                            '334px'
+                        ],
+                        [
+                            "eid269",
+                            "top",
+                            3331,
+                            3669,
+                            "linear",
+                            "${EllipseCopy8}",
+                            '334px',
+                            '321px'
                         ]
                     ]
                 }
