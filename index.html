@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <link rel="stylesheet" type="text/css" href="jquery.fullPage.css" />
+    <link rel="stylesheet" type="text/css" href="main.css">
+    
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="vendors/jquery.easings.min.js"></script>
+    <script type="text/javascript" src="jquery.fullPage.js"></script>
+    <script src="http://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
+    <script src="chartist-plugin-pointlabels.min.js"></script>
+    <link rel="stylesheet" href="http://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#fullpage').fullpage({
+                anchors: ['firstPage', 'secondPage']
+                sectionsColor: ['#ffffff', '#ffffff']
+                navigation: true,
+                navigationPosition: 'right',
+                navigationTooltips: ['First page', 'Second page'] }); });</script>
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>LINN PERSSON</title>
+    <meta name="author" content="Linn Persson" />
+    <meta name="description" content="fullPage full-screen backgrounds." />
+    <meta name="keywords"  content="fullpage,jquery,demo,screen,fullscreen,backgrounds,full-screen" />
+    <meta name="Resource-type" content="Document" />
+
+
+    <link rel="stylesheet" type="text/css" href="../jquery.fullPage.css" />
+    <link rel="stylesheet" type="text/css" href="examples.css" />
+    <style>
+    body
+    {
+        margin:0;
+    }
+
+    h1{
+        font-size: 6em;
+        font-family: Impact, Courier, helvetica;
+        opacity: 0.4;
+        color: #fff;
+        margin:0;
+        padding:0;
+    }
+
+    a{
+        text-decoration: none;
+
+    }
+a.hover{
+        color:hotpink;
+        
+    }
+    #myVideo{
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        top:0;
+        right:0;
+        width: 100%;
+        height: 100%;
+        background-size: 100% 100%;
+        background-color: white;
+        background-image: /* our video */;
+        background-position: center center;
+        background-size: contain;
+        object-fit: cover;
+        z-index:3;
+    }
+    #section0 .layer{
+        position: absolute;
+        z-index: 4;
+        width: 100%;
+        left: 0;
+        top: 40%;
+    }
+
+    #section0{
+        overflow: hidden;
+    }
+
+    #infoMenu li a {
+        color: #000;
+    }
+
+h2{
+        font-size: 6em;
+        font-family: Impact, Courier, helvetica;
+        opacity: 0.4;
+        color: #ffffff;
+        margin:0;
+        padding:100px;
+
+
+
+    }
+
+
+#MyVideo2{
+ position: absolute;
+        right: 0;
+        bottom: 0;
+        top:0;
+        right:0;
+        width: 100%;
+        height: 100%;
+        background-size: 100% 100%;
+        background-color: white;
+        background-image: /* our video */;
+        background-position: center center;
+        background-size: contain;
+        background-position: cover;
+        z-index:3;
+        }
+     .layer{
+        position: absolute;
+        z-index: 4;
+        width: 100%;
+        left: 0;
+        top: 40%;
+    }        
+
+p {
+    display: inherit;
+        
+    }
+    .section{
+        position: relative;
+        text-align:center;
+        overflow: hidden;
+        min-height: 100vh;
+    }
+
+
+    #secondpage{
+        overflow: hidden;
+    }
+
+    address { 
+    font-size: 2em;
+        font-family: Impact, Courier, helvetica;
+        opacity: 0.4;
+        color: #ffffff;
+        margin:0;
+        padding:100px;
+       
+        /* mouse over link */
+
+} a:hover {
+    color: hotpink;
+}
+
+        
+    }
+
+
+    
+</style>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="../jquery.fullPage.js"></script>
+    <script type="text/javascript" src="examples.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            $('.fullpage').fullpage({
+                verticalCentered: true,
+                sectionsColor: ['#ffffff', '#ffffff', '#ffffff'],
+                afterRender: function(){
+
+
+                    
+                    $('video').get(1).play();
+                }
+            });
+        });
+    </script>
+
+</head>
+<body>
+
+  
+  <div class="fullpage">
+    <div class="section" id="section0">
+
+        <div class="layer">
+            
+            <a href=""><h1>LINN PERSSONS PORTFOLIO</h1></a>
+            
+       <address>
+      <br>Mail med at the link below!<br>
+ <a href="mailto:Linn.Persson@hyperisland.se">HIRE ME</a>
+
+
+</address>
+
+        </div>
+        <video autoplay loop muted id="myVideo">
+                <source src="landingpage.mp4" type="video/mp4">
+        </video>
+    </div>
+
+    <div id="section1" class="section">
+
+        <div class="layer">
+        <a href="http://evalinns.com/Olivia"><h2>PHOTOGRAPHY</h2></a>
+        </div>
+
+        <video autoplay loop muted id="myVideo2">
+                <source src="Olivia.mp4" type="video/mp4">
+        </video>
+    </div>
+</div>
+
+</body>
+</html>
