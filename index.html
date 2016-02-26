@@ -13,9 +13,9 @@
 
     <script type="text/javascript">
         $(document).ready(function() {
-            $('#fullpage').fullpage({
+            $('#fullpage').'#fullpage'({
                 anchors: ['firstPage', 'secondPage']
-                sectionsColor: ['#ffffff', '#ffffff']
+                sectionsColor: ['#A3A3A3', '#A3A3A3']
                 navigation: true,
                 navigationPosition: 'right',
                 navigationTooltips: ['First page', 'Second page'] }); });</script>
@@ -37,13 +37,65 @@
         margin:0;
     }
 
+    {
+    background-color: #A3A3A3;
+
+}
+
     h1{
-        font-size: 6em;
-        font-family: Impact, Courier, helvetica;
+        font-size: 8em;
+        font-family:  didot, serif, Impact, Courier, helvetica;
+        font-style: oblique;
+        font-style: normal;
+        font-weight: lighter;
         opacity: 0.4;
         color: #fff;
         margin:0;
         padding:0;
+          }
+
+        h3{
+        font-size: 2em;
+        font-family:  didot, serif, Impact, Courier, helvetica;
+        font-style: normal;
+        font-weight: lighter;
+        opacity: 0.9;
+        color: white;
+        padding-left: 0;
+        text-align: center;
+        display: inline-block;
+}
+        a.hover{
+        color:lightpink;
+    }
+
+ h4{
+        font-size: 2em;
+        font-family:  didot, serif, Impact, Courier, helvetica;
+        font-style: normal;
+        font-weight: lighter;
+        opacity: 0.9;
+        color: white;
+        margin: 60px;
+        padding: 0;
+        text-align: center;
+        display: inline-block;
+    }
+
+     a.hover{
+        color:lightpink;
+    }
+
+     h5{
+        font-size: 2em;
+        font-family:  didot, serif, Impact, Courier, helvetica;
+        font-style: normal;
+        font-weight: lighter;
+        opacity: 0.9;
+        color: white;
+        padding: 0;
+        text-align: center;
+        display: inline-block;
     }
 
     a{
@@ -51,7 +103,7 @@
 
     }
 a.hover{
-        color:hotpink;
+        color:lightpink;
         
     }
     #myVideo{
@@ -82,9 +134,6 @@ a.hover{
         overflow: hidden;
     }
 
-    #infoMenu li a {
-        color: #000;
-    }
 
 h2{
         font-size: 6em;
@@ -94,34 +143,8 @@ h2{
         margin:0;
         padding:100px;
 
-
-
     }
 
-
-#MyVideo2{
- position: absolute;
-        right: 0;
-        bottom: 0;
-        top:0;
-        right:0;
-        width: 100%;
-        height: 100%;
-        background-size: 100% 100%;
-        background-color: white;
-        background-image: /* our video */;
-        background-position: center center;
-        background-size: contain;
-        background-position: cover;
-        z-index:3;
-        }
-     .layer{
-        position: absolute;
-        z-index: 4;
-        width: 100%;
-        left: 0;
-        top: 40%;
-    }        
 
 p {
     display: inherit;
@@ -136,7 +159,11 @@ p {
 
 
     #secondpage{
-        overflow: hidden;
+        background-color: #A3A3A3;
+        margin:0;
+        padding:0;
+          }
+
     }
 
     address { 
@@ -183,36 +210,34 @@ p {
 </head>
 <body>
 
+  <style>
+         img { 
+            width:100%;
+            }
+</style>
+
   
   <div class="fullpage">
     <div class="section" id="section0">
 
         <div class="layer">
             
-            <a href=""><h1>LINN PERSSONS PORTFOLIO</h1></a>
-            
-       <address>
-      <br>Mail med at the link below!<br>
- <a href="mailto:Linn.Persson@hyperisland.se">HIRE ME</a>
+            <h1>LINN PERSSON</h1>
+                <a href="http://www.yahoo.com"><h3>Published Work</h3></a>
+                <a href="http://www.yahoo.com"><h4>Client Cases</h4></a>
+                <a href="http://www.yahoo.com"><h5>Through The Lens</h5></a>
 
-
-</address>
+        <img src="pinterest.png" style="width:20px;height:20px;">
+        <img src="linkedin.png" style="width:20px;height:20px;">
+        <img src="instagram.png" style="width:20px;height:20px;">
+        <img src="facebook.png" style="width:20px;height:20px;">
 
         </div>
         <video autoplay loop muted id="myVideo">
                 <source src="landingpage.mp4" type="video/mp4">
         </video>
     </div>
-
     <div id="section1" class="section">
-
-        <div class="layer">
-        <a href="http://evalinns.com/Olivia"><h2>PHOTOGRAPHY</h2></a>
-        </div>
-
-        <video autoplay loop muted id="myVideo2">
-                <source src="Olivia.mp4" type="video/mp4">
-        </video>
     </div>
 </div>
 
