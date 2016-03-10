@@ -1,0 +1,158 @@
+    body
+    
+    {
+        margin:0;
+    }
+
+    {
+    background-color: white;
+    }
+
+    h1
+        {
+        font-size: 7em;
+        font-family:  Montserrat Font, Graphik Bold, didot, serif, Impact, Courier, helvetica;
+        font-style: oblique;
+        font-style: normal;
+        font-weight: lighter;
+        opacity: 0.4;
+        color: #fff;
+        margin:0;
+        padding:0;
+        }
+
+    h3
+        {
+        font-size: 2em;
+        font-family:  Sans-serif; didot, serif, Impact, Courier, helvetica;
+        font-style: normal;
+        font-weight: lighter;
+        opacity: 0.9;
+        color: black;
+        padding-left: 0;
+        text-align: center;
+        display: inline-block;
+        }
+        a.hover{
+        color:lightpink;
+        }
+
+ h4     
+        {
+        font-size: 2em;
+        font-family: sans-serif; didot, serif, Impact, Courier, helvetica;
+        font-style: normal;
+        font-weight: lighter;
+        opacity: 0.9;
+        color: black;
+        margin: 60px;
+        padding: 0;
+        text-align: center;
+        display: inline-block;
+        }
+
+     a.hover{
+        color:lightpink;
+        }
+
+h5
+        {
+        font-size: 2em;
+        font-family:  sans-serif, didot, serif, Impact, Courier, helvetica;
+        font-style: normal;
+        font-weight: lighter;
+        opacity: 0.9;
+        color: black;
+        padding: 0;
+        text-align: center;
+        display: inline-block;
+        }
+
+        a{
+        text-decoration: none;
+
+         }
+a.hover{
+        color:lightpink;
+        
+        }
+    #myVideo{
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        top:0;
+        right:0;
+        width: 100%;
+        height: 100%;
+        background-size: 100% 100%;
+        background-color: white;
+        background-image: /* our video */;
+        background-position: center center;
+        background-size: contain;
+        object-fit: cover;
+        z-index:3;
+        }
+    #section0 .layer{
+        position: absolute;
+        z-index: 4;
+        width: 100%;
+        left: 0;
+        top: 40%;
+    }
+
+    #section0{
+        overflow: hidden;
+    }
+
+
+h2  
+    {
+        font-size: 6em;
+        font-family: Impact, Courier, helvetica;
+        opacity: 0.4;
+        color: #ffffff;
+        margin:0;
+        padding:100px;
+
+    }
+
+
+p   {
+    display: inherit;
+        
+    }
+    .section{
+        position: relative;
+        text-align:center;
+        overflow: hidden;
+        min-height: 100vh;
+    }
+
+
+    #secondpage{
+        background-color: #A3A3A3;
+        margin:0;
+        padding:0;
+          }
+
+    }
+
+    address { 
+    font-size: 2em;
+        font-family: Impact, Courier, helvetica;
+        opacity: 0.4;
+        color: #ffffff;
+        margin:0;
+        padding:100px;
+       
+        /* mouse over link */}
+
+    a:hover {
+    color: hotpink;
+    }
+
+        
+    }
+
+
+    

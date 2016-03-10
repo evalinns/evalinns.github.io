@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <link rel="stylesheet" type="text/css" href="jquery.fullPage.css" />
+    <link rel="stylesheet" type="text/css" href="main.css">
+    
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="vendors/jquery.easings.min.js"></script>
+    <script type="text/javascript" src="jquery.fullPage.js"></script>
+    <script src="http://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
+    <script src="chartist-plugin-pointlabels.min.js"></script>
+    <link rel="stylesheet" href="http://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#fullpage').'#fullpage'({
+                anchors: ['firstPage', 'secondPage']
+                sectionsColor: ['#A3A3A3', '#A3A3A3']
+                navigation: true,
+                navigationPosition: 'right',
+                navigationTooltips: ['First page', 'Second page'] }); });</script>
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>LINN PERSSON</title>
+    <meta name="author" content="Linn Persson" />
+    <meta name="description" content="fullPage full-screen backgrounds." />
+    <meta name="keywords"  content="fullpage,jquery,demo,screen,fullscreen,backgrounds,full-screen" />
+    <meta name="Resource-type" content="Document" />
+
+
+    <link rel="stylesheet" type="text/css" href="../jquery.fullPage.css" />
+    <link rel="stylesheet" type="text/css" href="examples.css" />
+    <style>
+    body
+    {
+        margin:0;
+    }
+
+    {
+    background-color: white;
+
+}
+
+    h1{
+        font-size: 7em;
+        font-family:  Montserrat Font, Graphik Bold, didot, serif, Impact, Courier, helvetica;
+        font-style: oblique;
+        font-style: normal;
+        font-weight: lighter;
+        opacity: 0.4;
+        color: #fff;
+        margin:0;
+        padding:0;
+          }
+
+        h3{
+        font-size: 2em;
+        font-family:  Sans-serif; didot, serif, Impact, Courier, helvetica;
+        font-style: normal;
+        font-weight: lighter;
+        opacity: 0.9;
+        color: black;
+        padding-left: 0;
+        text-align: center;
+        display: inline-block;
+}
+        a.hover{
+        color:lightpink;
+    }
+
+ h4{
+        font-size: 2em;
+        font-family: sans-serif; didot, serif, Impact, Courier, helvetica;
+        font-style: normal;
+        font-weight: lighter;
+        opacity: 0.9;
+        color: black;
+        margin: 60px;
+        padding: 0;
+        text-align: center;
+        display: inline-block;
+    }
+
+     a.hover{
+        color:lightpink;
+    }
+
+     h5{
+        font-size: 2em;
+        font-family:  sans-serif, didot, serif, Impact, Courier, helvetica;
+        font-style: normal;
+        font-weight: lighter;
+        opacity: 0.9;
+        color: black;
+        padding: 0;
+        text-align: center;
+        display: inline-block;
+    }
+
+    a{
+        text-decoration: none;
+
+    }
+a.hover{
+        color:lightpink;
+        
+    }
+    #myVideo{
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        top:0;
+        right:0;
+        width: 100%;
+        height: 100%;
+        background-size: 100% 100%;
+        background-color: white;
+        background-image: /* our video */;
+        background-position: center center;
+        background-size: contain;
+        object-fit: cover;
+        z-index:3;
+    }
+    #section0 .layer{
+        position: absolute;
+        z-index: 4;
+        width: 100%;
+        left: 0;
+        top: 40%;
+    }
+
+    #section0{
+        overflow: hidden;
+    }
+
+
+h2{
+        font-size: 6em;
+        font-family: Impact, Courier, helvetica;
+        opacity: 0.4;
+        color: #ffffff;
+        margin:0;
+        padding:100px;
+
+    }
+
+
+p {
+    display: inherit;
+        
+    }
+    .section{
+        position: relative;
+        text-align:center;
+        overflow: hidden;
+        min-height: 100vh;
+    }
+
+
+    #secondpage{
+        background-color: #A3A3A3;
+        margin:0;
+        padding:0;
+          }
+
+    }
+
+    address { 
+    font-size: 2em;
+        font-family: Impact, Courier, helvetica;
+        opacity: 0.4;
+        color: #ffffff;
+        margin:0;
+        padding:100px;
+       
+        /* mouse over link */
+
+} a:hover {
+    color: hotpink;
+}
+
+        
+    }
+
+
+    
+</style>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="../jquery.fullPage.js"></script>
+    <script type="text/javascript" src="examples.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            $('.fullpage').fullpage({
+                verticalCentered: true,
+                sectionsColor: ['#ffffff', '#ffffff', '#ffffff'],
+                afterRender: function(){
+
+
+                    
+                    $('video').get(1).play();
+                }
+            });
+        });
+    </script>
+
+    <h3 class="top left" style="position:fixed;z-index:999">
+       Linn Persson
+    </h3>
+
+</head>
+<body>
+
+  <style>
+         img { 
+            width:100%;
+            }
+</style>
+
+  
+  <div class="fullpage">
+  <img src="metromode.jpg">
+    <div class="section" id="section0">
+        <div class="layer">
+                <a href="PublishedWork.html"><h3>Published Articles</h3></a>
+                <a href="Client Cases1.html"><h4>Digital Data Strategies</h4></a>
+                <a href="Through The Lens.html"><h5>Through The Lens</h5></a>
+
+        </div>
+        <video autoplay loop muted id="myVideo">
+                <source src="filmfilm.mp4" type="video/mp4">
+        </video>
+
+    </div>
+    <div id="section1" class="section">
+    </div>
+</div>
+
+</body>
+</html>
