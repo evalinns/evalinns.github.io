@@ -8,18 +8,20 @@
     background-color: white;
     }
 
-    h1
+     h2
         {
-        font-size: 7em;
-        font-family:  "Montserrat Font", didot, serif, Impact, Courier, helvetica;
-        font-style: oblique;
+        font-size: 2em;
+        font-family:  "Montserrat Font", Sans-serif;
         font-style: normal;
         font-weight: lighter;
-        opacity: 0.4;
-        color: #fff;
-        margin:0;
-        padding:0;
+        opacity: 0.9;
+        color: black;
+        padding-left: 0;
+        text-align: center;
+        display: inline-block;
+        margin-left: 20px;
         }
+
 
     h3
         {
@@ -34,45 +36,8 @@
         display: inline-block;
         margin-right: 30px;
         }
-        a.hover{
-        color:lightpink;
-        }
 
- h4     
-        {
-        font-size: 2em;
-        font-family: sans-serif; didot, serif, Impact, Courier, helvetica;
-        font-style: normal;
-        font-weight: lighter;
-        opacity: 0.9;
-        color: black;
-        margin: 60px;
-        padding: 0;
-        text-align: center;
-        display: inline-block;
-        }
 
-     a.hover{
-        color:lightpink;
-        }
-
-h5
-        {
-        font-size: 2em;
-        font-family:  sans-serif, didot, serif, Impact, Courier, helvetica;
-        font-style: normal;
-        font-weight: lighter;
-        opacity: 0.9;
-        color: black;
-        padding: 0;
-        text-align: center;
-        display: inline-block;
-        }
-
-        a{
-        text-decoration: none;
-
-         }
 a.hover{
         color:lightpink;
         
@@ -103,18 +68,6 @@ a.hover{
 
     #section0{
         overflow: hidden;
-    }
-
-
-h2  
-    {
-        font-size: 6em;
-        font-family: Impact, Courier, helvetica;
-        opacity: 0.4;
-        color: #ffffff;
-        margin:0;
-        padding:100px;
-
     }
 
 
