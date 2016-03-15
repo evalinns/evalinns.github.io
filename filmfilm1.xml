@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xmeml>
 <xmeml version="4">
-	<sequence id="sequence-3" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.5" TL.SQHideShyTracks="0" TL.SQHeaderWidth="184" Monitor.ProgramZoomOut="8454478032000" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="0.044975830078125001" MZ.EditLine="0" MZ.Sequence.PreviewFrameSizeHeight="1080" MZ.Sequence.PreviewFrameSizeWidth="1920" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1297106761" MZ.Sequence.PreviewRenderingPresetCodec="1297107278" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets/SequencePreview/cc7991f5-c236-4db1-957e-2c71f924e81c/I-Frame Only MPEG.epr" MZ.Sequence.PreviewUseMaxRenderQuality="false" MZ.Sequence.PreviewUseMaxBitDepth="false" MZ.Sequence.EditingModeGUID="cc7991f5-c236-4db1-957e-2c71f924e81c" MZ.Sequence.VideoTimeDisplayFormat="110" MZ.WorkOutPoint="8454478032000" MZ.WorkInPoint="0" explodedTracks="true">
+	<sequence id="sequence-2" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.5" TL.SQHideShyTracks="0" TL.SQHeaderWidth="184" Monitor.ProgramZoomOut="8454478032000" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="0.044975830078125001" MZ.EditLine="0" MZ.Sequence.PreviewFrameSizeHeight="1080" MZ.Sequence.PreviewFrameSizeWidth="1920" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1297106761" MZ.Sequence.PreviewRenderingPresetCodec="1297107278" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets/SequencePreview/cc7991f5-c236-4db1-957e-2c71f924e81c/I-Frame Only MPEG.epr" MZ.Sequence.PreviewUseMaxRenderQuality="false" MZ.Sequence.PreviewUseMaxBitDepth="false" MZ.Sequence.EditingModeGUID="cc7991f5-c236-4db1-957e-2c71f924e81c" MZ.Sequence.VideoTimeDisplayFormat="110" MZ.WorkOutPoint="8454478032000" MZ.WorkInPoint="0" explodedTracks="true">
 		<uuid>4823cc49-134d-4df7-ac4d-655b3d4c4aba</uuid>
 		<duration>798</duration>
 		<rate>
@@ -46,8 +46,8 @@
 					</samplecharacteristics>
 				</format>
 				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
-					<clipitem id="clipitem-27" frameBlend="FALSE">
-						<masterclipid>masterclip-19</masterclipid>
+					<clipitem id="clipitem-14" frameBlend="FALSE">
+						<masterclipid>masterclip-10</masterclipid>
 						<name>DSC_8365.MOV</name>
 						<enabled>TRUE</enabled>
 						<duration>360</duration>
@@ -64,7 +64,7 @@
 						<alphatype>black</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-19">
+						<file id="file-10">
 							<name>DSC_8365.MOV</name>
 							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-151434/DSC_8365.MOV</pathurl>
 							<rate>
@@ -117,8 +117,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-28" frameBlend="FALSE">
-						<masterclipid>masterclip-20</masterclipid>
+					<clipitem id="clipitem-15" frameBlend="FALSE">
+						<masterclipid>masterclip-11</masterclipid>
 						<name>DSC_8354.MOV</name>
 						<enabled>TRUE</enabled>
 						<duration>477</duration>
@@ -135,7 +135,7 @@
 						<alphatype>black</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-20">
+						<file id="file-11">
 							<name>DSC_8354.MOV</name>
 							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-151434/DSC_8354.MOV</pathurl>
 							<rate>
@@ -188,8 +188,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-29" frameBlend="FALSE">
-						<masterclipid>masterclip-21</masterclipid>
+					<clipitem id="clipitem-16" frameBlend="FALSE">
+						<masterclipid>masterclip-12</masterclipid>
 						<name>DSC_8356.MOV</name>
 						<enabled>TRUE</enabled>
 						<duration>867</duration>
@@ -206,7 +206,7 @@
 						<alphatype>black</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-21">
+						<file id="file-12">
 							<name>DSC_8356.MOV</name>
 							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-151434/DSC_8356.MOV</pathurl>
 							<rate>
@@ -250,20 +250,20 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-29</linkclipref>
+							<linkclipref>clipitem-16</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>3</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-38</linkclipref>
+							<linkclipref>clipitem-25</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>5</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-39</linkclipref>
+							<linkclipref>clipitem-26</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>6</trackindex>
 							<clipindex>1</clipindex>
@@ -279,8 +279,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-30" frameBlend="FALSE">
-						<masterclipid>masterclip-22</masterclipid>
+					<clipitem id="clipitem-17" frameBlend="FALSE">
+						<masterclipid>masterclip-13</masterclipid>
 						<name>DSC_8370.MOV</name>
 						<enabled>TRUE</enabled>
 						<duration>363</duration>
@@ -297,7 +297,7 @@
 						<alphatype>black</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-22">
+						<file id="file-13">
 							<name>DSC_8370.MOV</name>
 							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-234229/DSC_8370.MOV</pathurl>
 							<rate>
@@ -655,8 +655,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-31" frameBlend="FALSE">
-						<masterclipid>masterclip-23</masterclipid>
+					<clipitem id="clipitem-18" frameBlend="FALSE">
+						<masterclipid>masterclip-14</masterclipid>
 						<name>DSC_8360.MOV</name>
 						<enabled>TRUE</enabled>
 						<duration>156</duration>
@@ -673,7 +673,7 @@
 						<alphatype>black</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-23">
+						<file id="file-14">
 							<name>DSC_8360.MOV</name>
 							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-151434/DSC_8360.MOV</pathurl>
 							<rate>
@@ -1026,8 +1026,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-32" frameBlend="FALSE">
-						<masterclipid>masterclip-24</masterclipid>
+					<clipitem id="clipitem-19" frameBlend="FALSE">
+						<masterclipid>masterclip-15</masterclipid>
 						<name>DSC_8369.MOV</name>
 						<enabled>TRUE</enabled>
 						<duration>162</duration>
@@ -1044,7 +1044,7 @@
 						<alphatype>black</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-24">
+						<file id="file-15">
 							<name>DSC_8369.MOV</name>
 							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-151434/DSC_8369.MOV</pathurl>
 							<rate>
@@ -1097,8 +1097,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-33" frameBlend="FALSE">
-						<masterclipid>masterclip-25</masterclipid>
+					<clipitem id="clipitem-20" frameBlend="FALSE">
+						<masterclipid>masterclip-16</masterclipid>
 						<name>DSC_8372.MOV</name>
 						<enabled>TRUE</enabled>
 						<duration>1680</duration>
@@ -1115,7 +1115,7 @@
 						<alphatype>black</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-25">
+						<file id="file-16">
 							<name>DSC_8372.MOV</name>
 							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-151434/DSC_8372.MOV</pathurl>
 							<rate>
@@ -1168,8 +1168,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-34" frameBlend="FALSE">
-						<masterclipid>masterclip-24</masterclipid>
+					<clipitem id="clipitem-21" frameBlend="FALSE">
+						<masterclipid>masterclip-15</masterclipid>
 						<name>DSC_8369.MOV</name>
 						<enabled>TRUE</enabled>
 						<duration>162</duration>
@@ -1184,7 +1184,7 @@
 						<pproTicksIn>1006485480000</pproTicksIn>
 						<pproTicksOut>1599782184000</pproTicksOut>
 						<alphatype>black</alphatype>
-						<file id="file-24"/>
+						<file id="file-15"/>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -1195,8 +1195,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-35" frameBlend="FALSE">
-						<masterclipid>masterclip-26</masterclipid>
+					<clipitem id="clipitem-22" frameBlend="FALSE">
+						<masterclipid>masterclip-17</masterclipid>
 						<name>DSC_8366.MOV</name>
 						<enabled>TRUE</enabled>
 						<duration>424</duration>
@@ -1213,7 +1213,7 @@
 						<alphatype>black</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-26">
+						<file id="file-17">
 							<name>DSC_8366.MOV</name>
 							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-151434/DSC_8366.MOV</pathurl>
 							<rate>
@@ -1352,8 +1352,8 @@
 					</group>
 				</outputs>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="1" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
-					<clipitem id="clipitem-36" frameBlend="FALSE" premiereChannelType="stereo">
-						<masterclipid>masterclip-27</masterclipid>
+					<clipitem id="clipitem-23" frameBlend="FALSE" premiereChannelType="stereo">
+						<masterclipid>masterclip-18</masterclipid>
 						<name>LinnPortfolio.mp3</name>
 						<enabled>TRUE</enabled>
 						<duration>1467</duration>
@@ -1367,7 +1367,7 @@
 						<out>798</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>8454478032000</pproTicksOut>
-						<file id="file-27">
+						<file id="file-18">
 							<name>LinnPortfolio.mp3</name>
 							<pathurl>file://localhost/Users/linnpersson/Downloads/LinnPortfolio.mp3</pathurl>
 							<rate>
@@ -1402,14 +1402,14 @@
 							<trackindex>1</trackindex>
 						</sourcetrack>
 						<link>
-							<linkclipref>clipitem-36</linkclipref>
+							<linkclipref>clipitem-23</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-37</linkclipref>
+							<linkclipref>clipitem-24</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>1</clipindex>
@@ -1430,8 +1430,8 @@
 					<outputchannelindex>1</outputchannelindex>
 				</track>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="1" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
-					<clipitem id="clipitem-37" frameBlend="FALSE" premiereChannelType="stereo">
-						<masterclipid>masterclip-27</masterclipid>
+					<clipitem id="clipitem-24" frameBlend="FALSE" premiereChannelType="stereo">
+						<masterclipid>masterclip-18</masterclipid>
 						<name>LinnPortfolio.mp3</name>
 						<enabled>TRUE</enabled>
 						<duration>1467</duration>
@@ -1445,20 +1445,20 @@
 						<out>798</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>8454478032000</pproTicksOut>
-						<file id="file-27"/>
+						<file id="file-18"/>
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
 						</sourcetrack>
 						<link>
-							<linkclipref>clipitem-36</linkclipref>
+							<linkclipref>clipitem-23</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-37</linkclipref>
+							<linkclipref>clipitem-24</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>1</clipindex>
@@ -1489,8 +1489,8 @@
 					<outputchannelindex>2</outputchannelindex>
 				</track>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
-					<clipitem id="clipitem-38" frameBlend="FALSE" premiereChannelType="stereo">
-						<masterclipid>masterclip-21</masterclipid>
+					<clipitem id="clipitem-25" frameBlend="FALSE" premiereChannelType="stereo">
+						<masterclipid>masterclip-12</masterclipid>
 						<name>DSC_8356.MOV</name>
 						<enabled>TRUE</enabled>
 						<duration>867</duration>
@@ -1504,26 +1504,26 @@
 						<out>249</out>
 						<pproTicksIn>2235457224000</pproTicksIn>
 						<pproTicksOut>2638051416000</pproTicksOut>
-						<file id="file-21"/>
+						<file id="file-12"/>
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
 						</sourcetrack>
 						<link>
-							<linkclipref>clipitem-29</linkclipref>
+							<linkclipref>clipitem-16</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>3</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-38</linkclipref>
+							<linkclipref>clipitem-25</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>5</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-39</linkclipref>
+							<linkclipref>clipitem-26</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>6</trackindex>
 							<clipindex>1</clipindex>
@@ -1560,8 +1560,8 @@
 					<outputchannelindex>1</outputchannelindex>
 				</track>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
-					<clipitem id="clipitem-39" frameBlend="FALSE" premiereChannelType="stereo">
-						<masterclipid>masterclip-21</masterclipid>
+					<clipitem id="clipitem-26" frameBlend="FALSE" premiereChannelType="stereo">
+						<masterclipid>masterclip-12</masterclipid>
 						<name>DSC_8356.MOV</name>
 						<enabled>TRUE</enabled>
 						<duration>867</duration>
@@ -1575,26 +1575,26 @@
 						<out>249</out>
 						<pproTicksIn>2235457224000</pproTicksIn>
 						<pproTicksOut>2638051416000</pproTicksOut>
-						<file id="file-21"/>
+						<file id="file-12"/>
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
 						</sourcetrack>
 						<link>
-							<linkclipref>clipitem-29</linkclipref>
+							<linkclipref>clipitem-16</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>3</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-38</linkclipref>
+							<linkclipref>clipitem-25</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>5</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-39</linkclipref>
+							<linkclipref>clipitem-26</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>6</trackindex>
 							<clipindex>1</clipindex>
