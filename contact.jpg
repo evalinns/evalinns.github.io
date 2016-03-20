@@ -1,0 +1,22 @@
+!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Linn Persson - about</title>
+		</head>
+		<body>
+		<img src="linnbild.jpg">
+						<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li><a href="https://www.instagram.com/evalinns/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+
+							<li><a href="https://se.linkedin.com/in/linn-persson-a1b4bb103" class="icon fa-linkedin"><span class="label">In</span></a></li>
+
+							<li><a href="mailto:linn.persson@hyperisland.se" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+						</ul>
+						<ul class="copyright">
+							<li>&copy; Linn Persson</li>
+						</ul>
+					</footer>
+		</body>
+		</html>
