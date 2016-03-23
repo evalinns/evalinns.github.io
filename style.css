@@ -2172,7 +2172,7 @@
         }
 
             table tbody tr:nth-child(2n + 1) {
-                background-color: rgba(144, 144, 144, 0.25);
+                background-color: #fff;
             }
 
         table td {
@@ -2312,9 +2312,9 @@
         input[type="button"].special,
         button.special,
         .button.special {
-            background-color: black;
+            background-color: #fff;
             box-shadow: none !important;
-            color: #fff !important;
+            color: #000 !important;
         }
 
             input[type="submit"].special:hover,
@@ -2330,7 +2330,7 @@
             input[type="button"].special:active,
             button.special:active,
             .button.special:active {
-                background-color: #000 !important;
+                background-color: #fff !important;
             }
 
         input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2546,7 +2546,7 @@
         }
 
         .spotlight:nth-child(4) {
-            background-color: #000;
+            background-color: #fff;
         }
 
         .spotlight:nth-child(5) {
@@ -3065,7 +3065,8 @@
             }
 
                 .wrapper.style5 table tbody tr:nth-child(2n + 1) {
-                    background-color: rgba(0, 0, 0, 0.0375);
+                    background-color: #fff;
+                    color:#000;
                 }
 
             .wrapper.style5 table th {
