@@ -1,0 +1,2854 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xmeml>
+<xmeml version="4">
+	<sequence id="sequence-2" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.5" TL.SQHideShyTracks="0" TL.SQHeaderWidth="184" Monitor.ProgramZoomOut="1281944664000" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="0.0089956054687500009" MZ.EditLine="0" MZ.Sequence.PreviewFrameSizeHeight="1080" MZ.Sequence.PreviewFrameSizeWidth="1920" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1297106761" MZ.Sequence.PreviewRenderingPresetCodec="1297107278" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets/SequencePreview/cc7991f5-c236-4db1-957e-2c71f924e81c/I-Frame Only MPEG.epr" MZ.Sequence.PreviewUseMaxRenderQuality="false" MZ.Sequence.PreviewUseMaxBitDepth="false" MZ.Sequence.EditingModeGUID="cc7991f5-c236-4db1-957e-2c71f924e81c" MZ.Sequence.VideoTimeDisplayFormat="110" MZ.WorkOutPoint="1281944664000" MZ.WorkInPoint="0" explodedTracks="true">
+		<uuid>9ce2fff4-ec40-4d79-b683-bd25a55d4c60</uuid>
+		<duration>121</duration>
+		<rate>
+			<timebase>24</timebase>
+			<ntsc>TRUE</ntsc>
+		</rate>
+		<name>DSC_8358</name>
+		<media>
+			<video>
+				<format>
+					<samplecharacteristics>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<codec>
+							<name>Apple ProRes 422</name>
+							<appspecificdata>
+								<appname>Final Cut Pro</appname>
+								<appmanufacturer>Apple Inc.</appmanufacturer>
+								<appversion>7.0</appversion>
+								<data>
+									<qtcodec>
+										<codecname>Apple ProRes 422</codecname>
+										<codectypename>Apple ProRes 422</codectypename>
+										<codectypecode>apcn</codectypecode>
+										<codecvendorcode>appl</codecvendorcode>
+										<spatialquality>1024</spatialquality>
+										<temporalquality>0</temporalquality>
+										<keyframerate>0</keyframerate>
+										<datarate>0</datarate>
+									</qtcodec>
+								</data>
+							</appspecificdata>
+						</codec>
+						<width>1920</width>
+						<height>1080</height>
+						<anamorphic>FALSE</anamorphic>
+						<pixelaspectratio>square</pixelaspectratio>
+						<fielddominance>none</fielddominance>
+						<colordepth>24</colordepth>
+					</samplecharacteristics>
+				</format>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
+					<clipitem id="clipitem-10" frameBlend="FALSE">
+						<masterclipid>masterclip-8</masterclipid>
+						<name>DSC_8358.MOV</name>
+						<enabled>TRUE</enabled>
+						<duration>375</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>0</start>
+						<end>12</end>
+						<in>160</in>
+						<out>172</out>
+						<pproTicksIn>1695133440000</pproTicksIn>
+						<pproTicksOut>1822268448000</pproTicksOut>
+						<alphatype>black</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-8">
+							<name>DSC_8358.MOV</name>
+							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-151434/DSC_8358.MOV</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>375</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00:00:00:00</string>
+								<frame>0</frame>
+								<displayformat>NDF</displayformat>
+								<reel>
+									<name></name>
+								</reel>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+							<filter>
+								<effect>
+									<name></name>
+									<effectid>Lumetri</effectid>
+									<effecttype>filter</effecttype>
+									<mediatype>video</mediatype>
+									<parameter authoringApp="PremierePro">
+										<parameterid>1</parameterid>
+										<name>File Path</name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+										<value>/v4=</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>3</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>4</parameterid>
+										<name> </name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>5</parameterid>
+										<name>Input LUT</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>7</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>998</UpperBound>
+										<value>-91445760000000000,0,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>7</parameterid>
+										<name>Temperature</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>8</parameterid>
+										<name>Tint</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>11</parameterid>
+										<name>Exposure</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-7</LowerBound>
+										<UpperBound>7</UpperBound>
+										<LowerUIBound>-5</LowerUIBound>
+										<UpperUIBound>5</UpperUIBound>
+										<value>-91445760000000000,0.4444446563720703125,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>12</parameterid>
+										<name>Contrast</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,28.888885498046875,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>13</parameterid>
+										<name>Highlights</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>14</parameterid>
+										<name>Shadows</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>15</parameterid>
+										<name>Whites</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,31.111114501953125,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>16</parameterid>
+										<name>Blacks</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,-60.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>20</parameterid>
+										<name>Saturation</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>300</UpperBound>
+										<UpperUIBound>200</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>23</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>24</parameterid>
+										<name> </name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>25</parameterid>
+										<name>Look</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>7</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>998</UpperBound>
+										<value>-91445760000000000,0,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>26</parameterid>
+										<name>Intensity</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>200</UpperBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>28</parameterid>
+										<name>Faded Film</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>150</UpperBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>29</parameterid>
+										<name>Sharpen</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>30</parameterid>
+										<name>Vibrance</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>31</parameterid>
+										<name>Saturation</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>300</UpperBound>
+										<UpperUIBound>200</UpperUIBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>32</parameterid>
+										<name></name>
+										<hash>49d2fca5-ddd1-a393-0544-f6d80000002c</hash>
+										<value>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>33</parameterid>
+										<name>Tint Balance</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>37</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>39</parameterid>
+										<name> </name>
+										<hash>261f3840-e8cf-a8cd-fa5e-bac10000082c</hash>
+										<value>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAADwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwPwAAAAAAAPA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAADwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>42</parameterid>
+										<name> </name>
+										<hash>ccfaa4df-d630-7661-76dd-3e4900000214</hash>
+										<value>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAADwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>46</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>47</parameterid>
+										<name> </name>
+										<hash>1ba7724e-68ca-2d9f-ae30-6bfb00000054</hash>
+										<value>AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAADgPwAAAAAAAAAA</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>50</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>51</parameterid>
+										<name>Amount</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-5</LowerBound>
+										<UpperBound>5</UpperBound>
+										<LowerUIBound>-3</LowerUIBound>
+										<UpperUIBound>3</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>52</parameterid>
+										<name>Midpoint</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>53</parameterid>
+										<name>Roundness</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>54</parameterid>
+										<name>Feather</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+									</parameter>
+								</effect>
+							</filter>
+						<link>
+							<linkclipref>clipitem-10</linkclipref>
+							<mediatype>video</mediatype>
+							<trackindex>1</trackindex>
+							<clipindex>1</clipindex>
+						</link>
+						<link>
+							<linkclipref>clipitem-17</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<link>
+							<linkclipref>clipitem-18</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+						</logginginfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-11" frameBlend="FALSE">
+						<masterclipid>masterclip-9</masterclipid>
+						<name>DSC_8365.MOV</name>
+						<enabled>TRUE</enabled>
+						<duration>360</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>16</start>
+						<end>29</end>
+						<in>34</in>
+						<out>47</out>
+						<pproTicksIn>360215856000</pproTicksIn>
+						<pproTicksOut>497945448000</pproTicksOut>
+						<alphatype>black</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-9">
+							<name>DSC_8365.MOV</name>
+							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-151434/DSC_8365.MOV</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>360</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00:00:00:00</string>
+								<frame>0</frame>
+								<displayformat>NDF</displayformat>
+								<reel>
+									<name></name>
+								</reel>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+							<filter>
+								<effect>
+									<name></name>
+									<effectid>Lumetri</effectid>
+									<effecttype>filter</effecttype>
+									<mediatype>video</mediatype>
+									<parameter authoringApp="PremierePro">
+										<parameterid>1</parameterid>
+										<name>File Path</name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>3</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>4</parameterid>
+										<name> </name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>5</parameterid>
+										<name>Input LUT</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>7</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>998</UpperBound>
+										<value>-91445760000000000,0,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>7</parameterid>
+										<name>Temperature</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>8</parameterid>
+										<name>Tint</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>11</parameterid>
+										<name>Exposure</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-7</LowerBound>
+										<UpperBound>7</UpperBound>
+										<LowerUIBound>-5</LowerUIBound>
+										<UpperUIBound>5</UpperUIBound>
+										<value>-91445760000000000,0.11111164093017578125,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>12</parameterid>
+										<name>Contrast</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,37.7777862548828125,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>13</parameterid>
+										<name>Highlights</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>14</parameterid>
+										<name>Shadows</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>15</parameterid>
+										<name>Whites</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,26.66666412353515625,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>16</parameterid>
+										<name>Blacks</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,-100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>20</parameterid>
+										<name>Saturation</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>300</UpperBound>
+										<UpperUIBound>200</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>23</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>24</parameterid>
+										<name> </name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>25</parameterid>
+										<name>Look</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>7</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>998</UpperBound>
+										<value>-91445760000000000,0,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>26</parameterid>
+										<name>Intensity</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>200</UpperBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>28</parameterid>
+										<name>Faded Film</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>150</UpperBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>29</parameterid>
+										<name>Sharpen</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>30</parameterid>
+										<name>Vibrance</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>31</parameterid>
+										<name>Saturation</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>300</UpperBound>
+										<UpperUIBound>200</UpperUIBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>32</parameterid>
+										<name></name>
+										<hash>49d2fca5-ddd1-a393-0544-f6d80000002c</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>33</parameterid>
+										<name>Tint Balance</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>37</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>39</parameterid>
+										<name> </name>
+										<hash>261f3840-e8cf-a8cd-fa5e-bac10000082c</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>42</parameterid>
+										<name> </name>
+										<hash>ccfaa4df-d630-7661-76dd-3e4900000214</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>46</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>47</parameterid>
+										<name> </name>
+										<hash>1ba7724e-68ca-2d9f-ae30-6bfb00000054</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>50</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>51</parameterid>
+										<name>Amount</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-5</LowerBound>
+										<UpperBound>5</UpperBound>
+										<LowerUIBound>-3</LowerUIBound>
+										<UpperUIBound>3</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>52</parameterid>
+										<name>Midpoint</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>53</parameterid>
+										<name>Roundness</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>54</parameterid>
+										<name>Feather</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+									</parameter>
+								</effect>
+							</filter>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+						</logginginfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-12" frameBlend="FALSE">
+						<masterclipid>masterclip-10</masterclipid>
+						<name>DSC_8369.MOV</name>
+						<enabled>TRUE</enabled>
+						<duration>162</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>33</start>
+						<end>47</end>
+						<in>120</in>
+						<out>134</out>
+						<pproTicksIn>1271350080000</pproTicksIn>
+						<pproTicksOut>1419674256000</pproTicksOut>
+						<alphatype>black</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-10">
+							<name>DSC_8369.MOV</name>
+							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-151434/DSC_8369.MOV</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>162</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00:00:00:00</string>
+								<frame>0</frame>
+								<displayformat>NDF</displayformat>
+								<reel>
+									<name></name>
+								</reel>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+							<filter>
+								<effect>
+									<name></name>
+									<effectid>Lumetri</effectid>
+									<effecttype>filter</effecttype>
+									<mediatype>video</mediatype>
+									<parameter authoringApp="PremierePro">
+										<parameterid>1</parameterid>
+										<name>File Path</name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>3</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>4</parameterid>
+										<name> </name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>5</parameterid>
+										<name>Input LUT</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>7</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>998</UpperBound>
+										<value>-91445760000000000,0,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>7</parameterid>
+										<name>Temperature</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,-6.66666412353515625,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>8</parameterid>
+										<name>Tint</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>11</parameterid>
+										<name>Exposure</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-7</LowerBound>
+										<UpperBound>7</UpperBound>
+										<LowerUIBound>-5</LowerUIBound>
+										<UpperUIBound>5</UpperUIBound>
+										<value>-91445760000000000,0.666666507720947265625,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>12</parameterid>
+										<name>Contrast</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,8.888885498046875,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>13</parameterid>
+										<name>Highlights</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>14</parameterid>
+										<name>Shadows</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>15</parameterid>
+										<name>Whites</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,40.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>16</parameterid>
+										<name>Blacks</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,-100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>20</parameterid>
+										<name>Saturation</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>300</UpperBound>
+										<UpperUIBound>200</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>23</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>24</parameterid>
+										<name> </name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>25</parameterid>
+										<name>Look</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>7</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>998</UpperBound>
+										<value>-91445760000000000,0,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>26</parameterid>
+										<name>Intensity</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>200</UpperBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>28</parameterid>
+										<name>Faded Film</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>150</UpperBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>29</parameterid>
+										<name>Sharpen</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>30</parameterid>
+										<name>Vibrance</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>31</parameterid>
+										<name>Saturation</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>300</UpperBound>
+										<UpperUIBound>200</UpperUIBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>32</parameterid>
+										<name></name>
+										<hash>49d2fca5-ddd1-a393-0544-f6d80000002c</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>33</parameterid>
+										<name>Tint Balance</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>37</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>39</parameterid>
+										<name> </name>
+										<hash>261f3840-e8cf-a8cd-fa5e-bac10000082c</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>42</parameterid>
+										<name> </name>
+										<hash>ccfaa4df-d630-7661-76dd-3e4900000214</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>46</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>47</parameterid>
+										<name> </name>
+										<hash>1ba7724e-68ca-2d9f-ae30-6bfb00000054</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>50</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>51</parameterid>
+										<name>Amount</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-5</LowerBound>
+										<UpperBound>5</UpperBound>
+										<LowerUIBound>-3</LowerUIBound>
+										<UpperUIBound>3</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>52</parameterid>
+										<name>Midpoint</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>53</parameterid>
+										<name>Roundness</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>54</parameterid>
+										<name>Feather</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+									</parameter>
+								</effect>
+							</filter>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+						</logginginfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-13" frameBlend="FALSE">
+						<masterclipid>masterclip-11</masterclipid>
+						<name>DSC_8370.MOV</name>
+						<enabled>TRUE</enabled>
+						<duration>363</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>52</start>
+						<end>64</end>
+						<in>229</in>
+						<out>241</out>
+						<pproTicksIn>2426159736000</pproTicksIn>
+						<pproTicksOut>2553294744000</pproTicksOut>
+						<alphatype>black</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-11">
+							<name>DSC_8370.MOV</name>
+							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-234229/DSC_8370.MOV</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>363</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00:00:00:00</string>
+								<frame>0</frame>
+								<displayformat>NDF</displayformat>
+								<reel>
+									<name></name>
+								</reel>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+							<filter>
+								<effect>
+									<name></name>
+									<effectid>Lumetri</effectid>
+									<effecttype>filter</effecttype>
+									<mediatype>video</mediatype>
+									<parameter authoringApp="PremierePro">
+										<parameterid>1</parameterid>
+										<name>File Path</name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>3</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>4</parameterid>
+										<name> </name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>5</parameterid>
+										<name>Input LUT</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>7</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>998</UpperBound>
+										<value>-91445760000000000,0,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>7</parameterid>
+										<name>Temperature</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,-26.66666412353515625,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>8</parameterid>
+										<name>Tint</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>11</parameterid>
+										<name>Exposure</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-7</LowerBound>
+										<UpperBound>7</UpperBound>
+										<LowerUIBound>-5</LowerUIBound>
+										<UpperUIBound>5</UpperUIBound>
+										<value>-91445760000000000,1.22222232818603515625,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>12</parameterid>
+										<name>Contrast</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,26.66666412353515625,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>13</parameterid>
+										<name>Highlights</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>14</parameterid>
+										<name>Shadows</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>15</parameterid>
+										<name>Whites</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>16</parameterid>
+										<name>Blacks</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,-100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>20</parameterid>
+										<name>Saturation</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>300</UpperBound>
+										<UpperUIBound>200</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>23</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>24</parameterid>
+										<name> </name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>25</parameterid>
+										<name>Look</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>7</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>998</UpperBound>
+										<value>-91445760000000000,0,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>26</parameterid>
+										<name>Intensity</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>200</UpperBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>28</parameterid>
+										<name>Faded Film</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>150</UpperBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>29</parameterid>
+										<name>Sharpen</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>30</parameterid>
+										<name>Vibrance</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>31</parameterid>
+										<name>Saturation</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>300</UpperBound>
+										<UpperUIBound>200</UpperUIBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>32</parameterid>
+										<name></name>
+										<hash>49d2fca5-ddd1-a393-0544-f6d80000002c</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>33</parameterid>
+										<name>Tint Balance</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>37</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>39</parameterid>
+										<name> </name>
+										<hash>261f3840-e8cf-a8cd-fa5e-bac10000082c</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>42</parameterid>
+										<name> </name>
+										<hash>ccfaa4df-d630-7661-76dd-3e4900000214</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>46</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>47</parameterid>
+										<name> </name>
+										<hash>1ba7724e-68ca-2d9f-ae30-6bfb00000054</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>50</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>51</parameterid>
+										<name>Amount</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-5</LowerBound>
+										<UpperBound>5</UpperBound>
+										<LowerUIBound>-3</LowerUIBound>
+										<UpperUIBound>3</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>52</parameterid>
+										<name>Midpoint</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>53</parameterid>
+										<name>Roundness</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>54</parameterid>
+										<name>Feather</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+									</parameter>
+								</effect>
+							</filter>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+						</logginginfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-14" frameBlend="FALSE">
+						<masterclipid>masterclip-12</masterclipid>
+						<name>DSC_8354.MOV</name>
+						<enabled>TRUE</enabled>
+						<duration>477</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>69</start>
+						<end>83</end>
+						<in>0</in>
+						<out>14</out>
+						<pproTicksIn>0</pproTicksIn>
+						<pproTicksOut>148324176000</pproTicksOut>
+						<alphatype>black</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-12">
+							<name>DSC_8354.MOV</name>
+							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-151434/DSC_8354.MOV</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>477</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00:00:00:00</string>
+								<frame>0</frame>
+								<displayformat>NDF</displayformat>
+								<reel>
+									<name></name>
+								</reel>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+							<filter>
+								<effect>
+									<name></name>
+									<effectid>Lumetri</effectid>
+									<effecttype>filter</effecttype>
+									<mediatype>video</mediatype>
+									<parameter authoringApp="PremierePro">
+										<parameterid>1</parameterid>
+										<name>File Path</name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>3</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>4</parameterid>
+										<name> </name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>5</parameterid>
+										<name>Input LUT</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>7</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>998</UpperBound>
+										<value>-91445760000000000,0,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>7</parameterid>
+										<name>Temperature</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,-17.77777862548828125,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>8</parameterid>
+										<name>Tint</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>11</parameterid>
+										<name>Exposure</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-7</LowerBound>
+										<UpperBound>7</UpperBound>
+										<LowerUIBound>-5</LowerUIBound>
+										<UpperUIBound>5</UpperUIBound>
+										<value>-91445760000000000,1.111111164093017578125,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>12</parameterid>
+										<name>Contrast</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,51.111114501953125,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>13</parameterid>
+										<name>Highlights</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>14</parameterid>
+										<name>Shadows</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>15</parameterid>
+										<name>Whites</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,-4.4444427490234375,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>16</parameterid>
+										<name>Blacks</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,-100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>20</parameterid>
+										<name>Saturation</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>300</UpperBound>
+										<UpperUIBound>200</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>23</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>24</parameterid>
+										<name> </name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>25</parameterid>
+										<name>Look</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>7</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>998</UpperBound>
+										<value>-91445760000000000,0,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>26</parameterid>
+										<name>Intensity</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>200</UpperBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>28</parameterid>
+										<name>Faded Film</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>150</UpperBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>29</parameterid>
+										<name>Sharpen</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>30</parameterid>
+										<name>Vibrance</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>31</parameterid>
+										<name>Saturation</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>300</UpperBound>
+										<UpperUIBound>200</UpperUIBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>32</parameterid>
+										<name></name>
+										<hash>49d2fca5-ddd1-a393-0544-f6d80000002c</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>33</parameterid>
+										<name>Tint Balance</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>37</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>39</parameterid>
+										<name> </name>
+										<hash>261f3840-e8cf-a8cd-fa5e-bac10000082c</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>42</parameterid>
+										<name> </name>
+										<hash>ccfaa4df-d630-7661-76dd-3e4900000214</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>46</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>47</parameterid>
+										<name> </name>
+										<hash>1ba7724e-68ca-2d9f-ae30-6bfb00000054</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>50</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>51</parameterid>
+										<name>Amount</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-5</LowerBound>
+										<UpperBound>5</UpperBound>
+										<LowerUIBound>-3</LowerUIBound>
+										<UpperUIBound>3</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>52</parameterid>
+										<name>Midpoint</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>53</parameterid>
+										<name>Roundness</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>54</parameterid>
+										<name>Feather</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+									</parameter>
+								</effect>
+							</filter>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+						</logginginfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-15" frameBlend="FALSE">
+						<masterclipid>masterclip-13</masterclipid>
+						<name>DSC_8372.MOV</name>
+						<enabled>TRUE</enabled>
+						<duration>1680</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>88</start>
+						<end>102</end>
+						<in>894</in>
+						<out>908</out>
+						<pproTicksIn>9471558096000</pproTicksIn>
+						<pproTicksOut>9619882272000</pproTicksOut>
+						<alphatype>black</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-13">
+							<name>DSC_8372.MOV</name>
+							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-151434/DSC_8372.MOV</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>1680</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00:00:00:00</string>
+								<frame>0</frame>
+								<displayformat>NDF</displayformat>
+								<reel>
+									<name></name>
+								</reel>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+							<filter>
+								<effect>
+									<name></name>
+									<effectid>Lumetri</effectid>
+									<effecttype>filter</effecttype>
+									<mediatype>video</mediatype>
+									<parameter authoringApp="PremierePro">
+										<parameterid>1</parameterid>
+										<name>File Path</name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>3</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>4</parameterid>
+										<name> </name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>5</parameterid>
+										<name>Input LUT</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>7</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>998</UpperBound>
+										<value>-91445760000000000,0,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>7</parameterid>
+										<name>Temperature</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,-28.888885498046875,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>8</parameterid>
+										<name>Tint</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>11</parameterid>
+										<name>Exposure</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-7</LowerBound>
+										<UpperBound>7</UpperBound>
+										<LowerUIBound>-5</LowerUIBound>
+										<UpperUIBound>5</UpperUIBound>
+										<value>-91445760000000000,1.33333301544189453125,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>12</parameterid>
+										<name>Contrast</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>13</parameterid>
+										<name>Highlights</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>14</parameterid>
+										<name>Shadows</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>15</parameterid>
+										<name>Whites</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>16</parameterid>
+										<name>Blacks</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,-100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>20</parameterid>
+										<name>Saturation</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>300</UpperBound>
+										<UpperUIBound>200</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>23</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>24</parameterid>
+										<name> </name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>25</parameterid>
+										<name>Look</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>7</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>998</UpperBound>
+										<value>-91445760000000000,0,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>26</parameterid>
+										<name>Intensity</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>200</UpperBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>28</parameterid>
+										<name>Faded Film</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>150</UpperBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>29</parameterid>
+										<name>Sharpen</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>30</parameterid>
+										<name>Vibrance</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>31</parameterid>
+										<name>Saturation</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>300</UpperBound>
+										<UpperUIBound>200</UpperUIBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>32</parameterid>
+										<name></name>
+										<hash>49d2fca5-ddd1-a393-0544-f6d80000002c</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>33</parameterid>
+										<name>Tint Balance</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>37</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>39</parameterid>
+										<name> </name>
+										<hash>261f3840-e8cf-a8cd-fa5e-bac10000082c</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>42</parameterid>
+										<name> </name>
+										<hash>ccfaa4df-d630-7661-76dd-3e4900000214</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>46</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>47</parameterid>
+										<name> </name>
+										<hash>1ba7724e-68ca-2d9f-ae30-6bfb00000054</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>50</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>51</parameterid>
+										<name>Amount</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-5</LowerBound>
+										<UpperBound>5</UpperBound>
+										<LowerUIBound>-3</LowerUIBound>
+										<UpperUIBound>3</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>52</parameterid>
+										<name>Midpoint</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>53</parameterid>
+										<name>Roundness</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>54</parameterid>
+										<name>Feather</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+									</parameter>
+								</effect>
+							</filter>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+						</logginginfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-16" frameBlend="FALSE">
+						<masterclipid>masterclip-14</masterclipid>
+						<name>DSC_8366.MOV</name>
+						<enabled>TRUE</enabled>
+						<duration>1272</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>107</start>
+						<end>121</end>
+						<in>17</in>
+						<out>31</out>
+						<pproTicksIn>180107928000</pproTicksIn>
+						<pproTicksOut>328432104000</pproTicksOut>
+						<alphatype>black</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-14">
+							<name>DSC_8366.MOV</name>
+							<pathurl>file://localhost/Users/linnpersson/Pictures/Bilder-bibliotek.photoslibrary/Masters/2016/01/31/20160131-151434/DSC_8366.MOV</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>1272</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00:00:00:00</string>
+								<frame>0</frame>
+								<displayformat>NDF</displayformat>
+								<reel>
+									<name></name>
+								</reel>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+							<filter>
+								<effect>
+									<name></name>
+									<effectid>Lumetri</effectid>
+									<effecttype>filter</effecttype>
+									<mediatype>video</mediatype>
+									<parameter authoringApp="PremierePro">
+										<parameterid>1</parameterid>
+										<name>File Path</name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>3</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>4</parameterid>
+										<name> </name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>5</parameterid>
+										<name>Input LUT</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>7</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>998</UpperBound>
+										<value>-91445760000000000,0,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>7</parameterid>
+										<name>Temperature</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,-24.4444427490234375,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>8</parameterid>
+										<name>Tint</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>11</parameterid>
+										<name>Exposure</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-7</LowerBound>
+										<UpperBound>7</UpperBound>
+										<LowerUIBound>-5</LowerUIBound>
+										<UpperUIBound>5</UpperUIBound>
+										<value>-91445760000000000,0.333333492279052734375,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>12</parameterid>
+										<name>Contrast</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,42.22222900390625,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>13</parameterid>
+										<name>Highlights</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>14</parameterid>
+										<name>Shadows</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>15</parameterid>
+										<name>Whites</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,44.4444427490234375,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>16</parameterid>
+										<name>Blacks</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,-100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>20</parameterid>
+										<name>Saturation</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>300</UpperBound>
+										<UpperUIBound>200</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>23</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>24</parameterid>
+										<name> </name>
+										<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>25</parameterid>
+										<name>Look</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>7</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>998</UpperBound>
+										<value>-91445760000000000,0,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>26</parameterid>
+										<name>Intensity</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>200</UpperBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>28</parameterid>
+										<name>Faded Film</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>150</UpperBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>29</parameterid>
+										<name>Sharpen</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>30</parameterid>
+										<name>Vibrance</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>31</parameterid>
+										<name>Saturation</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>300</UpperBound>
+										<UpperUIBound>200</UpperUIBound>
+										<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>32</parameterid>
+										<name></name>
+										<hash>49d2fca5-ddd1-a393-0544-f6d80000002c</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>33</parameterid>
+										<name>Tint Balance</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-150</LowerBound>
+										<UpperBound>150</UpperBound>
+										<LowerUIBound>-100</LowerUIBound>
+										<UpperUIBound>100</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>37</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>39</parameterid>
+										<name> </name>
+										<hash>261f3840-e8cf-a8cd-fa5e-bac10000082c</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>42</parameterid>
+										<name> </name>
+										<hash>ccfaa4df-d630-7661-76dd-3e4900000214</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>46</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>47</parameterid>
+										<name> </name>
+										<hash>1ba7724e-68ca-2d9f-ae30-6bfb00000054</hash>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>50</parameterid>
+										<name> </name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>4</ParameterControlType>
+										<LowerBound>false</LowerBound>
+										<UpperBound>true</UpperBound>
+										<value>-91445760000000000,true,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>51</parameterid>
+										<name>Amount</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-5</LowerBound>
+										<UpperBound>5</UpperBound>
+										<LowerUIBound>-3</LowerUIBound>
+										<UpperUIBound>3</UpperUIBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>52</parameterid>
+										<name>Midpoint</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>53</parameterid>
+										<name>Roundness</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>-100</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+									</parameter>
+									<parameter authoringApp="PremierePro">
+										<parameterid>54</parameterid>
+										<name>Feather</name>
+										<IsTimeVarying>false</IsTimeVarying>
+										<ParameterControlType>8</ParameterControlType>
+										<LowerBound>0</LowerBound>
+										<UpperBound>100</UpperBound>
+										<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+									</parameter>
+								</effect>
+							</filter>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+						</logginginfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+				</track>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+				</track>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+				</track>
+			</video>
+			<audio>
+				<numOutputChannels>2</numOutputChannels>
+				<format>
+					<samplecharacteristics>
+						<depth>16</depth>
+						<samplerate>48000</samplerate>
+					</samplecharacteristics>
+				</format>
+				<outputs>
+					<group>
+						<index>1</index>
+						<numchannels>1</numchannels>
+						<downmix>0</downmix>
+						<channel>
+							<index>1</index>
+						</channel>
+					</group>
+					<group>
+						<index>2</index>
+						<numchannels>1</numchannels>
+						<downmix>0</downmix>
+						<channel>
+							<index>2</index>
+						</channel>
+					</group>
+				</outputs>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+					<clipitem id="clipitem-17" frameBlend="FALSE" premiereChannelType="stereo">
+						<masterclipid>masterclip-8</masterclipid>
+						<name>DSC_8358.MOV</name>
+						<enabled>TRUE</enabled>
+						<duration>375</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>0</start>
+						<end>12</end>
+						<in>160</in>
+						<out>172</out>
+						<pproTicksIn>1695133440000</pproTicksIn>
+						<pproTicksOut>1822268448000</pproTicksOut>
+						<file id="file-8"/>
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+						</sourcetrack>
+						<link>
+							<linkclipref>clipitem-10</linkclipref>
+							<mediatype>video</mediatype>
+							<trackindex>1</trackindex>
+							<clipindex>1</clipindex>
+						</link>
+						<link>
+							<linkclipref>clipitem-17</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<link>
+							<linkclipref>clipitem-18</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+						</logginginfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<enabled>FALSE</enabled>
+					<locked>FALSE</locked>
+					<outputchannelindex>1</outputchannelindex>
+				</track>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+					<clipitem id="clipitem-18" frameBlend="FALSE" premiereChannelType="stereo">
+						<masterclipid>masterclip-8</masterclipid>
+						<name>DSC_8358.MOV</name>
+						<enabled>TRUE</enabled>
+						<duration>375</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>0</start>
+						<end>12</end>
+						<in>160</in>
+						<out>172</out>
+						<pproTicksIn>1695133440000</pproTicksIn>
+						<pproTicksOut>1822268448000</pproTicksOut>
+						<file id="file-8"/>
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+						</sourcetrack>
+						<link>
+							<linkclipref>clipitem-10</linkclipref>
+							<mediatype>video</mediatype>
+							<trackindex>1</trackindex>
+							<clipindex>1</clipindex>
+						</link>
+						<link>
+							<linkclipref>clipitem-17</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<link>
+							<linkclipref>clipitem-18</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+						</logginginfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<enabled>FALSE</enabled>
+					<locked>FALSE</locked>
+					<outputchannelindex>2</outputchannelindex>
+				</track>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+					<outputchannelindex>1</outputchannelindex>
+				</track>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+					<outputchannelindex>2</outputchannelindex>
+				</track>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+					<outputchannelindex>1</outputchannelindex>
+				</track>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+					<outputchannelindex>2</outputchannelindex>
+				</track>
+			</audio>
+		</media>
+		<timecode>
+			<rate>
+				<timebase>24</timebase>
+				<ntsc>TRUE</ntsc>
+			</rate>
+			<string>00:00:00:00</string>
+			<frame>0</frame>
+			<displayformat>NDF</displayformat>
+		</timecode>
+		<labels>
+			<label2>Forest</label2>
+		</labels>
+	</sequence>
+</xmeml>
