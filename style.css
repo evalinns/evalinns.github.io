@@ -2546,7 +2546,8 @@
         }
 
         .spotlight:nth-child(4) {
-            background-color: white;
+            background-color: #fff;
+            color: #000;
            
         }
 
@@ -2685,11 +2686,11 @@
             .wrapper.style1 input[type="email"],
             .wrapper.style1 select,
             .wrapper.style1 textarea {
-                background: rgba(255, 255, 255, 0.075);
+                background: white;
             }
 
             .wrapper.style1 .select-wrapper:before {
-                color: rgba(0, 0, 0, 0.125);
+                color: white;
             }
 
             .wrapper.style1 input[type="checkbox"] + label,
@@ -2737,11 +2738,11 @@
             }
 
             .wrapper.style1 table tbody tr {
-                border-color: rgba(0, 0, 0, 0.125);
+                border-color: #fff;
             }
 
                 .wrapper.style1 table tbody tr:nth-child(2n + 1) {
-                    background-color: rgba(255, 255, 255, 0.075);
+                    background-color: white;
                 }
 
             .wrapper.style1 table th {
@@ -2788,7 +2789,7 @@
             @media screen and (max-width: 736px) {
 
                 .wrapper.style1 .features li {
-                    border-top-color: rgba(0, 0, 0, 0.125);
+                    border-top-color: #fff;
                 }
 
             }
@@ -2811,15 +2812,15 @@
             }
 
             .wrapper.style3 hr {
-                border-color: rgba(0, 0, 0, 0.125);
+                border-color: white;
             }
 
             .wrapper.style3 blockquote {
-                border-color: rgba(0, 0, 0, 0.125);
+                border-color: white;
             }
 
             .wrapper.style3 code {
-                background: rgba(255, 255, 255, 0.075);
+                background: white;
             }
 
             .wrapper.style3 header p {
@@ -2847,7 +2848,7 @@
             }
 
             .wrapper.style3 .select-wrapper:before {
-                color: rgba(0, 0, 0, 0.125);
+                color: white;
             }
 
             .wrapper.style3 input[type="checkbox"] + label,
