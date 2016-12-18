@@ -3229,6 +3229,7 @@
 			top: 0;
 			vertical-align: middle;
 			width: 7em;
+			color: #000;
 		}
 
 		@media screen and (max-width: 736px) {
