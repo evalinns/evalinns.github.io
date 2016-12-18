@@ -32,6 +32,14 @@
 <iframe src="http://www.instagram.com/evalinns" name="frame1" scrolling="auto" frameborder="no" align="center" height = "300px" width = "100%">
 </iframe>
 
+<div function emicalc__shortcode( $atts ) {
+
+    $content = file_get_contents( get_stylesheet_directory() . '/emicalc.html');
+    return $content;
+}
+
+add_shortcode( 'emicalc', 'emicalc__shortcode' );></div>
+
 </header>
 
 <!-- One -->
