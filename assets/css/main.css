@@ -3273,10 +3273,6 @@
 	}
 
 		#header h1 {
-			-moz-transition: opacity 0.2s ease;
-			-webkit-transition: opacity 0.2s ease;
-			-ms-transition: opacity 0.2s ease;
-			transition: opacity 0.2s ease;
 			height: inherit;
 			left: 1.25em;
 			line-height: inherit;
