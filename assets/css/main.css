@@ -3327,6 +3327,7 @@
 						letter-spacing: 0.225em;
 						padding: 0 1.5em;
 						text-transform: uppercase;
+						font-family: 'futura', arial;
 					}
 
 						#header nav > ul > li > a.menuToggle {
