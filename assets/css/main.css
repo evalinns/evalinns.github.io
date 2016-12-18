@@ -1660,7 +1660,7 @@
 	}
 
 	label {
-		color: #fff;
+		color: #000;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 600;
@@ -1712,7 +1712,7 @@
 		.select-wrapper:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: 'futura';
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -1723,7 +1723,7 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			color: #fff;
+			color: #000;
 			content: '\f078';
 			display: block;
 			height: 2.75em;
@@ -1767,7 +1767,7 @@
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #fff;
+			color: #000;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
