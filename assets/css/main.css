@@ -1411,7 +1411,7 @@
 		}
 
 	body, input, select, textarea {
-		font-family: Metric, Arial;
+		font-family: 'futura', Arial;
 		font-size: 0.875rem;
 		font-weight: 500;
 		letter-spacing: 1px;
