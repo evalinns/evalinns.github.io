@@ -3166,9 +3166,9 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #000;
+		background: #fff;
         opacity: 0.4;
-		color: #fff;
+		color: #000;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
