@@ -1606,7 +1606,7 @@
     }
     }
 
-    video#backgroundvid {  position: fixed; right: 0; bottom: 0; min-width: 100%; min-height: 100%; width: auto; height: auto; z-index: -100; background: url(vit.jpg) no-repeat; background-size: cover;  }
+    video#backgroundvid {  position: fixed; right: 0; bottom: 0; min-width: 100%; min-height: 100%; width: auto; height: auto; z-index: -100; background: url(vit.jpg) auto-repeat; background-size: cover;  }
     }
 
     header h3 + p {
