@@ -34,7 +34,22 @@
 <section id="one" class="wrapper style1 special">
 <div class="inner">
 <header class="major">
-<video width="fullscreen" height="fullscreen" autoplay>
+<video#bgvid { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(polina.jpg) no-repeat;
+    background-size: cover; 
+}>
   <source src="film.mp4" type="video/mp4">
   <source src="film.mp4" type="video/ogg">
 
